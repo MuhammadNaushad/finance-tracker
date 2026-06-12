@@ -8,3 +8,8 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
